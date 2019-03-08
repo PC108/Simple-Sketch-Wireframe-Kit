@@ -7,4 +7,4 @@ I've been looking for a while for a wireframe kit that has a neutral design and 
 
 I liked the simple design of Micah. In the same spirit, I continue to extend this kit and standardize it as much as possible.
 
-Each component should be easily scalable in Sketch.
+Use as a library in Sketch. Each component should be easily scalable.
