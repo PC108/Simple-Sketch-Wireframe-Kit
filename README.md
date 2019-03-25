@@ -6,3 +6,5 @@ I've been looking for a wireframe kit that has a neutral design and is at the sa
 Inspired by the design of Micah Sivitz kit available on sketchappsources.com. In the same spirit, I continue to extend this kit and standardize it as much as possible.
 
 To use as a library in Sketch. Each component should be easily resized.
+
+![Page Screenshot](Screenshot.png)
