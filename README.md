@@ -8,3 +8,5 @@ Inspired by the design of Micah Sivitz kit available on sketchappsources.com. In
 To use as a library in Sketch. Each component should be easily resized.
 
 ![Page Screenshot](Screenshot.png)
+
+Note : I added wireframe_kit.sketchpalette file. It is the color palette to use with Sketch Palette Plugin if needed.
